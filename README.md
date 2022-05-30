@@ -29,6 +29,9 @@ npm start
 ```
 This will load the front-end.
 
+# How to use
+Once the back-end and front-end are running you will be able to add boats and allocate them to the appropriate 'lane'. For each boat you can also change it's 'lane' status and the boat should move.
+
 # Tools Chosen
 The frontend is built with React with Fetch and tested with Cypress. Functional testing is essentially testing with Cypress.
 The backend is built with Django, the Django Rest Framework, and tested with the built in Django testing infrastructure. 
