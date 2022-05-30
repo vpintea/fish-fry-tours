@@ -30,5 +30,5 @@ npm start
 This will load the front-end.
 
 # Tools Chosen
-The frontend is built with React with Fetch and tested with Cypress. 
-The backend is built with Django, the Django Rest Framework, and tested with the built in Django testing infrastructure.
+The frontend is built with React with Fetch and tested with Cypress. Functional testing is essentially testing with Cypress.
+The backend is built with Django, the Django Rest Framework, and tested with the built in Django testing infrastructure. 
