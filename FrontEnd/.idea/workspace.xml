@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b2f9780-1ee7-4f01-a794-96d4d54740bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/fishfrytours.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress/integration/addButton.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress/plugins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/cypress/support/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/add-boat/add-boat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/add-boat/add-boat.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/boat-card-component/boat-card.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/boat-card-component/boatcard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/swimlane-component/swimlane.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/components/swimlane-component/swimlane.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishfrytours/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +180,8 @@
       <workItem from="1653858257711" duration="2062000" />
       <workItem from="1653864493779" duration="864000" />
       <workItem from="1653867155044" duration="244000" />
-      <workItem from="1653867409037" duration="747000" />
+      <workItem from="1653867409037" duration="1068000" />
+      <workItem from="1653880703326" duration="492000" />
     </task>
     <servers />
   </component>
