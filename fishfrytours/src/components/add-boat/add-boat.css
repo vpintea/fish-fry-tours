@@ -1,0 +1,10 @@
+.addBoatForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.addBoatFormContainer {
+    display: flex;
+    justify-content: center;
+}
