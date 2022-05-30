@@ -3,7 +3,7 @@ import './swimlane.css'
 import BoatCard from "../boat-card-component/boat-card";
 import AddBoatForm from "../add-boat/add-boat";
 
-const BASE_API_URL = 'http://localhost:8000' //this is where heroku url will go;
+const BASE_API_URL = 'http://localhost:8000' //this is where heroku url will go when deployed to cloud;
 const Swimlanes = (props) => {
     const [state, setState] = useState([]);
     const [hasError, setHasError] = useState(false);
