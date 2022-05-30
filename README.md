@@ -35,3 +35,20 @@ The backend is built with Django, the Django Rest Framework, and tested with the
 
 # Cloud Hosting 
 Cloud hosting of back-end + front-end was attempted on Heroku cloud service however for this assessment I decided to leave it to run locally as I encountered configuration issues with sqlite.
+
+# Testing
+To run the unit tests for the back end you run the following from the terminal.
+```
+python3 ./manage.py test
+```
+If all goes well then you will see something similar to the below:
+```
+Found 3 test(s).
+Creating test database for alias 'default'...
+System check identified no issues (0 silenced).
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.016s
+
+OK
+```
