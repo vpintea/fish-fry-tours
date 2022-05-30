@@ -19,7 +19,7 @@ Starting development server at http://127.0.0.1:8000/
 # Front-end
 Install the necessary libraries. Open another terminal and run as follows:
 ```
-cd ~/fish-fry-tours/fishfrytours
+cd ~/fish-fry-tours/FishFryToursFrontend
 npm install
 ```
 
