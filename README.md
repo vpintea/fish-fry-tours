@@ -32,3 +32,6 @@ This will load the front-end.
 # Tools Chosen
 The frontend is built with React with Fetch and tested with Cypress. Functional testing is essentially testing with Cypress.
 The backend is built with Django, the Django Rest Framework, and tested with the built in Django testing infrastructure. 
+
+# Cloud Hosting 
+Cloud hosting of back-end + front-end was attempted on Heroku cloud service however for this assessment I decided to leave it to run locally as I encountered configuration issues with sqlite.
