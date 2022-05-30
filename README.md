@@ -28,3 +28,7 @@ With the terminal open run the front-end as follows:
 npm start
 ```
 This will load the front-end.
+
+# Tools Chosen
+The frontend is built with React with Fetch and tested with Cypress. 
+The backend is built with Django, the Django Rest Framework, and tested with the built in Django testing infrastructure.
